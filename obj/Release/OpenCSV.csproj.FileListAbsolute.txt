@@ -1,0 +1,3 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCSV\bin\Release\OpenCSV.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCSV\obj\Release\OpenCSV.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\OpenCSV\obj\Release\OpenCSV.dll
