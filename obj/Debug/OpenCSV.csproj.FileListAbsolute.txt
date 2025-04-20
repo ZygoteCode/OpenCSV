@@ -1,0 +1,5 @@
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\OpenCSV\bin\Debug\OpenCSV.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\OpenCSV\bin\Debug\OpenCSV.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\OpenCSV\obj\Debug\OpenCSV.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\OpenCSV\obj\Debug\OpenCSV.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\OpenCSV\obj\Debug\OpenCSV.pdb
